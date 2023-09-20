@@ -7,9 +7,9 @@ In this installation I use 4 servers in total, later this cluster can grow by ad
 - 1 K3s Agent
 
 Installation used as below:
-**OS :** Rocky 8.7
-**Load Balancer :** Nginx
-**External DB :** MySQL 8.0
-**K3S version :** v1.26.9-rc1+k3s1
+- **OS :** Rocky 8.7
+- **Load Balancer :** Nginx
+- **External DB :** MySQL 8.0
+- **K3S version :** v1.26.9-rc1+k3s1
 
 ![Installation Digagram](k3s.drawio.png)
