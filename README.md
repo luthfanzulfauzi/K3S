@@ -12,5 +12,5 @@ Installation used as below:
 - **External DB :** MySQL 8.0
 - **K3S version :** v1.26.9-rc1+k3s1
 
-<p align="center">Installation Diagram</p>
+Installation Diagram
 ![Installation Digagram](k3s.drawio.png "Installation Diagram")
