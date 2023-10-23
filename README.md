@@ -14,4 +14,4 @@ Installation used as below:
 
 Installation Diagram:
 
-![Installation Digagram](k3s.drawio.png "Installation Diagram")
+![Installation Digagram](k3s.drawio2.png "Installation Diagram")
