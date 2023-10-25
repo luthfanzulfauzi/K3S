@@ -1,19 +1,14 @@
 ### Install NGINX
 
 Install epel-release and update
-```sudo yum install epel-release
-```
-
-```sudo yum update
-```
+`sudo yum install epel-release`
+`sudo yum update`
 
 Install nginx
-```sudo yum install nginx
-```
+`sudo yum install nginx`
 
 Verify nginx installation (check version)
-```sudo nginx -v
-```
+`sudo nginx -v`
 
 Start nginx service
 ```systemctl enable nginx
