@@ -4,7 +4,7 @@
 In this installation I use 4 servers in total, later this cluster can grow by adding more nodes to the cluster.
 - 1 Load Balancer + DB
 - 2 K3S Server (Master Node)
-- 1 K3s Agent
+- 2 K3s Agent (Worker Node)
 
 Installation used as below:
 - **OS :** Rocky 8.7
@@ -14,4 +14,4 @@ Installation used as below:
 
 Installation Diagram:
 
-![Installation Digagram](k3s.drawio2.png "Installation Diagram")
+![Installation Digagram](k3s.drawio.png "Installation Diagram")
