@@ -15,3 +15,13 @@ Installation used as below:
 Installation Diagram:
 
 ![Installation Digagram](k3s.drawio.png "Installation Diagram")
+
+Installation steps:
+- 1 [nginx](https://github.com/luthfanzulfauzi/K3S/blob/main/nginx/docs/install.md)
+- 2 [mysql](https://github.com/luthfanzulfauzi/K3S/blob/main/mysql/docs/mysql_install.md)
+- 3 [K3S server](https://github.com/luthfanzulfauzi/K3S/blob/main/server/docs/k3s_server_install.md)
+- 4 [K3S agent](https://github.com/luthfanzulfauzi/K3S/blob/main/agent/docs/k3s_agent_install.md)
+- 5 Export kubeconfig [k3s.yaml](https://github.com/luthfanzulfauzi/K3S/blob/main/server/config/k3s.yaml)
+```
+export KUBECONFIG=~/.kube/k3s.yaml
+```
